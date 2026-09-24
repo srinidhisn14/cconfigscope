@@ -18,7 +18,7 @@ export function DashboardPage() {
   return (
     <div className="space-y-8 animate-fade-in">
       <header>
-        <h1 className="text-2xl font-bold tracking-tight text-white">Dashboard</h1>
+        <h1 className="text-2xl font-bold tracking-tight text-white">Dashboard — Sapling SCM Demo</h1>
         <p className="mt-2 max-w-2xl text-slate-400">
           ConfigScope maps configuration changes to dependency blast radius using a
           rule-based engine. Input a key and values, then see what could break and why.
